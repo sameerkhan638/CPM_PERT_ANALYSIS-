@@ -1,0 +1,5 @@
+streamlit
+pulp
+pyngrok
+numpy
+pandas
